@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	cloudcontrol "github.com/hacktobeer/go-panasonic"
+	cloudcontrol "github.com/hacktobeer/go-panasonic/cloudcontrol"
 	pt "github.com/hacktobeer/go-panasonic/types"
 )
 
