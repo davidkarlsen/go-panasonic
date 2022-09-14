@@ -1,4 +1,4 @@
-package cloudcontrol_test
+package cloudcontrol
 
 import (
 	"fmt"
